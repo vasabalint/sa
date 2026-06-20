@@ -1,0 +1,90 @@
+[
+  {
+    "id": "morning-mist",
+    "title": "Morning Mist",
+    "year": 2023,
+    "technique": "Oil on canvas",
+    "dimensions": "80 × 100 cm",
+    "category": "Landscape",
+    "description": "A tranquil early morning scene where golden light filters through a pine forest and kisses the still surface of a mountain lake. The world is suspended between night and day, wrapped in a soft luminous haze.",
+    "image": "/paintings/morning-mist.jpg",
+    "featured": true
+  },
+  {
+    "id": "golden-fields",
+    "title": "Golden Fields",
+    "year": 2023,
+    "technique": "Oil on canvas",
+    "dimensions": "100 × 120 cm",
+    "category": "Landscape",
+    "description": "Endless wheat fields stretching to the horizon beneath a dramatic summer sky. Painted entirely en plein air over three sessions, this work captures the restless energy of wind moving through ripe grain.",
+    "image": "/paintings/golden-fields.jpg",
+    "featured": true
+  },
+  {
+    "id": "crimson-tide",
+    "title": "Crimson Tide",
+    "year": 2024,
+    "technique": "Oil on linen",
+    "dimensions": "90 × 90 cm",
+    "category": "Abstract",
+    "description": "An exploration of raw emotional energy through bold gestural mark-making. Layers of crimson, sienna, and deep gold build upon each other, creating a surface that rewards close inspection with hidden depth.",
+    "image": "/paintings/crimson-tide.jpg",
+    "featured": false
+  },
+  {
+    "id": "winter-silence",
+    "title": "Winter Silence",
+    "year": 2022,
+    "technique": "Oil on panel",
+    "dimensions": "60 × 80 cm",
+    "category": "Landscape",
+    "description": "A hushed European village after snowfall. Warm amber light spills from windows into the cold blue dusk. This painting is an ode to the quiet beauty found in ordinary winter evenings.",
+    "image": "/paintings/winter-silence.jpg",
+    "featured": false
+  },
+  {
+    "id": "evening-solitude",
+    "title": "Evening Solitude",
+    "year": 2024,
+    "technique": "Oil on canvas",
+    "dimensions": "70 × 90 cm",
+    "category": "Portrait",
+    "description": "A study in light and character. Using dramatic chiaroscuro reminiscent of the Old Masters, this portrait seeks to capture not just a face but an inner world — thoughtful, self-contained, and deeply present.",
+    "image": "/paintings/evening-solitude.jpg",
+    "featured": true
+  },
+  {
+    "id": "autumn-bloom",
+    "title": "Autumn Bloom",
+    "year": 2022,
+    "technique": "Oil on canvas",
+    "dimensions": "50 × 60 cm",
+    "category": "Still Life",
+    "description": "An elaborate bouquet of late-season roses, peonies, and tulips arranged in a ceramic vase. Painted in the tradition of the Dutch Golden Age, with careful attention to the interplay of light, shadow, and botanical detail.",
+    "image": "/paintings/autumn-bloom.jpg",
+    "featured": false
+  },
+  {
+    "id": "coastal-fire",
+    "title": "Coastal Fire",
+    "year": 2023,
+    "technique": "Oil on canvas",
+    "dimensions": "120 × 80 cm",
+    "category": "Landscape",
+    "description": "The moment before sunset on the Atlantic coast — when the cliffs glow orange and the sea turns to molten copper. Painted in a single session to capture the urgency and splendor of a sky in flux.",
+    "image": "/paintings/coastal-fire.jpg",
+    "featured": true
+  },
+  {
+    "id": "azure-depths",
+    "title": "Azure Depths",
+    "year": 2024,
+    "technique": "Oil and cold wax on board",
+    "dimensions": "100 × 100 cm",
+    "category": "Abstract",
+    "description": "Built up through dozens of translucent layers of cobalt, ultramarine, and cerulean, this work evokes deep water, open sky, and states of contemplative stillness. The encaustic-like surface invites the viewer to lean in.",
+    "image": "/paintings/azure-depths.jpg",
+    "featured": false
+  }
+]

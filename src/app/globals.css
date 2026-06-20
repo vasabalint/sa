@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  --color-gallery-bg: #0e0e0e;
+  --color-gallery-surface: #181818;
+  --color-gallery-border: #2a2a2a;
+  --color-gallery-muted: #888888;
+  --color-gallery-text: #e8e0d4;
+  --color-gallery-heading: #f5f0ea;
+  --color-gallery-gold: #c9a84c;
+  --color-gallery-gold-light: #e8c96a;
+  --color-gallery-gold-dim: rgba(201, 168, 76, 0.15);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-gallery-bg);
+  color: var(--color-gallery-text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--color-gallery-heading);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-gallery-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-gallery-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gallery-muted);
+}
+
+/* Selection */
+::selection {
+  background: var(--color-gallery-gold-dim);
+  color: var(--color-gallery-gold-light);
+}
